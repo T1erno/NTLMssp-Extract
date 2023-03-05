@@ -9,10 +9,10 @@ Just clone this repository and run the *ntlmssp_extract.py*  file.
 ## Installation with pip or pipx
 
 ```bash
-pip install git+https://github.com/sinnaj-r/NTLMssp-Extract --break-system-packages
+pip install git+https://github.com/T1erno/NTLMssp-Extract --break-system-packages
 ```
 ```bash
-pipx install git+https://github.com/sinnaj-r/NTLMssp-Extract
+pipx install git+https://github.com/T1erno/NTLMssp-Extract
 ```
 
 # Usage:
